@@ -5,7 +5,7 @@ button to go to the next page and also a message which is changed every time the
 page. The message is saved in ScreenData class with info variable. Update message method is used to update the 
 info message. Then in the main I used provider for that. Additionally, I have used images also. You can go 
 forward or backward among the pages by pressing corresponding buttons. In page 4 i have added 4 containers 
-with math problems. You can write answers in the text fields. That is it, I have completed the code 
+with math problems. You can write answers in the text fields. That is it, I have completed the assignment 
 according to requirements.
 
 
